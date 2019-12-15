@@ -1,0 +1,8 @@
+body{
+    background-color: tan;
+    padding:10px, 10px, 10px, 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    border: 10px;
+    border-color: darkgreen;
+}
